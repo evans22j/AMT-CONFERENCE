@@ -1,6 +1,7 @@
- # My-Portfolio
+ # AMT-CONFERENCE
 
-This is a portfolio website created by using the template provided in Figma.
+Africa must think conference is aimed at redefining the future of Africa by transforming the 
+education system from the theoretical approach to that which appreciates practical Entrepreneurship skills.
 
 # screenshot
 
@@ -10,6 +11,7 @@ This is a portfolio website created by using the template provided in Figma.
 
 - HTML
 - CSS
+- JAVASCRIPT
 
 ## Materials required for validation
 
