@@ -1,13 +1,23 @@
 @font-face {
   font-family: "COCOGOOSE";
-  src: url("../webfonts_COCOGOOSE/COCOGOOSE.ttf.woff") format("woff"), url("../webfonts_COCOGOOSE/COCOGOOSE.ttf.svg#COCOGOOSE") format("svg"), url("../webfonts_COCOGOOSE/COCOGOOSE.ttf.eot"), url("../webfonts_COCOGOOSE/COCOGOOSE.ttf.eot?#iefix") format("embedded-opentype");
+  src: url("../webfonts_COCOGOOSE/COCOGOOSE.ttf.woff") format("woff"),
+    url("../webfonts_COCOGOOSE/COCOGOOSE.ttf.svg#COCOGOOSE") format("svg"),
+    url("../webfonts_COCOGOOSE/COCOGOOSE.ttf.eot"),
+    url("../webfonts_COCOGOOSE/COCOGOOSE.ttf.eot?#iefix")
+      format("embedded-opentype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'COCOGOOSE-LETTERPRESS';
-  src: url("../webfonts_COCOGOOSE-LETTERPRESS/COCOGOOSE-LETTERPRESS.ttf.woff") format("woff"), url("../webfonts_COCOGOOSE-LETTERPRESS/COCOGOOSE-LETTERPRESS.ttf.svg#COCOGOOSE-LETTERPRESS") format("svg"), url("../webfonts_COCOGOOSE-LETTERPRESS/COCOGOOSE-LETTERPRESS.ttf.eot"), url("../webfonts_COCOGOOSE-LETTERPRESS/COCOGOOSE-LETTERPRESS.ttf.eot?#iefix") format("embedded-opentype");
+  font-family: "COCOGOOSE-LETTERPRESS";
+  src: url("../webfonts_COCOGOOSE-LETTERPRESS/COCOGOOSE-LETTERPRESS.ttf.woff")
+      format("woff"),
+    url("../webfonts_COCOGOOSE-LETTERPRESS/COCOGOOSE-LETTERPRESS.ttf.svg#COCOGOOSE-LETTERPRESS")
+      format("svg"),
+    url("../webfonts_COCOGOOSE-LETTERPRESS/COCOGOOSE-LETTERPRESS.ttf.eot"),
+    url("../webfonts_COCOGOOSE-LETTERPRESS/COCOGOOSE-LETTERPRESS.ttf.eot?#iefix")
+      format("embedded-opentype");
   font-weight: normal;
   font-style: normal;
 }
@@ -43,7 +53,7 @@ html {
 body {
   width: 100%;
   min-height: 100vh;
-  font-family: 'COCOGOOSE', Arial, sans-serif;
+  font-family: "COCOGOOSE", Arial, sans-serif;
   overflow-x: hidden;
 }
 
@@ -116,7 +126,7 @@ nav .nav_menu {
   max-width: 750px;
   min-height: 200px;
   width: 100%;
-  font-family: 'COCOGOOSE-LETTERPRESS', Arial, sans-serif;
+  font-family: "COCOGOOSE-LETTERPRESS", Arial, sans-serif;
 }
 
 .partner-list li {
@@ -213,7 +223,11 @@ h2 {
 .home_section {
   padding: 80px 24px 0;
   background-color: var(--primary);
-  background-image: linear-gradient(rgba(238, 238, 238, 0.87), rgb(235, 235, 235)), url('../images/home-mobile.jpg');
+  background-image: linear-gradient(
+      rgba(238, 238, 238, 0.87),
+      rgb(235, 235, 235)
+    ),
+    url("../images/home-mobile.jpg");
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -553,6 +567,10 @@ footer .created p {
     display: block;
   }
 
+  .logo {
+    animation: bounce-in-right 4s ease 2;
+  }
+
   header nav.backg {
     height: 120px;
     background-color: var(--primary);
@@ -596,6 +614,10 @@ footer .created p {
   article h4 {
     width: 90%;
   }
+
+  /* .see-more {
+    display: none;
+  } */
 
   .program_section h2,
   .featured_section h2 {

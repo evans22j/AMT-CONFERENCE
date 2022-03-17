@@ -1,13 +1,23 @@
 @font-face {
   font-family: "COCOGOOSE";
-  src: url("../webfonts_COCOGOOSE/COCOGOOSE.ttf.woff") format("woff"), url("../webfonts_COCOGOOSE/COCOGOOSE.ttf.svg#COCOGOOSE") format("svg"), url("../webfonts_COCOGOOSE/COCOGOOSE.ttf.eot"), url("../webfonts_COCOGOOSE/COCOGOOSE.ttf.eot?#iefix") format("embedded-opentype");
+  src: url("../webfonts_COCOGOOSE/COCOGOOSE.ttf.woff") format("woff"),
+    url("../webfonts_COCOGOOSE/COCOGOOSE.ttf.svg#COCOGOOSE") format("svg"),
+    url("../webfonts_COCOGOOSE/COCOGOOSE.ttf.eot"),
+    url("../webfonts_COCOGOOSE/COCOGOOSE.ttf.eot?#iefix")
+      format("embedded-opentype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'COCOGOOSE-LETTERPRESS';
-  src: url("../webfonts_COCOGOOSE-LETTERPRESS/COCOGOOSE-LETTERPRESS.ttf.woff") format("woff"), url("../webfonts_COCOGOOSE-LETTERPRESS/COCOGOOSE-LETTERPRESS.ttf.svg#COCOGOOSE-LETTERPRESS") format("svg"), url("../webfonts_COCOGOOSE-LETTERPRESS/COCOGOOSE-LETTERPRESS.ttf.eot"), url("../webfonts_COCOGOOSE-LETTERPRESS/COCOGOOSE-LETTERPRESS.ttf.eot?#iefix") format("embedded-opentype");
+  font-family: "COCOGOOSE-LETTERPRESS";
+  src: url("../webfonts_COCOGOOSE-LETTERPRESS/COCOGOOSE-LETTERPRESS.ttf.woff")
+      format("woff"),
+    url("../webfonts_COCOGOOSE-LETTERPRESS/COCOGOOSE-LETTERPRESS.ttf.svg#COCOGOOSE-LETTERPRESS")
+      format("svg"),
+    url("../webfonts_COCOGOOSE-LETTERPRESS/COCOGOOSE-LETTERPRESS.ttf.eot"),
+    url("../webfonts_COCOGOOSE-LETTERPRESS/COCOGOOSE-LETTERPRESS.ttf.eot?#iefix")
+      format("embedded-opentype");
   font-weight: normal;
   font-style: normal;
 }
@@ -43,7 +53,7 @@ html {
 body {
   width: 100%;
   min-height: 100vh;
-  font-family: 'COCOGOOSE', Arial, sans-serif;
+  font-family: "COCOGOOSE", Arial, sans-serif;
   overflow-x: hidden;
 }
 
@@ -209,7 +219,11 @@ ul {
   opacity: 0.9;
   margin: 0 auto;
   text-align: center;
-  background-image: linear-gradient(rgba(238, 238, 238, 0.479), rgba(235, 235, 235, 0.521)), url('../images/about-img.png');
+  background-image: linear-gradient(
+      rgba(238, 238, 238, 0.479),
+      rgba(235, 235, 235, 0.521)
+    ),
+    url("../images/about-img.png");
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -314,11 +328,11 @@ footer .logo img {
 }
 
 .overView .logo {
-  width: 90%;
+  width: 60%;
   max-width: 480px;
   height: 160px;
-  border: 2px solid var(--primary);
-  padding: 25px 40px;
+  /* border: 2px solid var(--primary); */
+  padding: 0px 75px;
   margin: 20px auto;
   text-align: center;
   cursor: pointer;
