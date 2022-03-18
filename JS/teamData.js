@@ -57,7 +57,7 @@ const data = [
       alt: "team_6",
     },
     about: "Global Speaker.",
-    work: "Lorem ipsum, consectetur adipisicing elit.Perferendis asperiores, quo distinctio, atque, quasi nobis.",
+    work: "Lorem ipsum, consectetur adipisicing elite.Perferendis asperiores, quo distinctio, atque, quasi nobis.",
   },
 ];
 
