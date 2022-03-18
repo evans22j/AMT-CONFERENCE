@@ -26,7 +26,7 @@ In this project i added the following;
 - HTML
 - CSS
 - JAVASCRIPT
-- Vscode
+- VSCODE
 
 ## Getting Started
 
@@ -34,8 +34,8 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the Repo or Download the Zip file and Extract by clicking here [GitHub Repo]{}
 2. mkdir the folder of your choice
-3. cd the folder of your choice
-4. git clone
+3. cd the folder 
+4. git clone 
 
 ## Author
 
