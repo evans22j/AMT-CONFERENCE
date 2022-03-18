@@ -1,33 +1,41 @@
 # AFRICA MUST THINK CONFERENCE
 
-Africa must think conference is aimed at redefining the future of Africa by transforming the education system from the theoretical approach to that which appreciates practical Entrepreneurship skills.
+Africa must think conference is aimed at redefining the future of Africa by transforming the education system from the theoretical approach to that which appreciates practical Entrepreneurship skills. Here is the link video [Loom Video](https://www.loom.com/share/08ebad94e4774b8491249d70951e9488) explaining how it works. For the live conference [Click here]() to see the version of the conference page.
 
-# screenshot
+Below are the screenshorts for:
 
-[screenshot](./photos/screenshot-1.png)
+Desktop Version.
+
+[screenshot](./images/icons/screen-desk.png)
+
+Mobile Version
+
+[screenshot](./images/icons/mobile.png)
+
+I implemented the project by using Html,Css,javascript,media queries and Dom manupalation.
+
+In this project i added the following;
+
+- Two html files
+- Navigation Bar
+- Speakers section bult with Dynamic Javascript
+- Two screen sizes for desktop and mobile version.
 
 ## Built With
 
 - HTML
 - CSS
 - JAVASCRIPT
-
-## Materials required for validation
-
-- follow this link :
-  [HTML and CSS Linters link](https://github.com/microverseinc/linters-config/tree/master/html-css)
-
-## Live Demo
-
-- See live demo:
-  [Link](https://evans22j.github.io/My-Portfolio/)
+- Vscode
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-1. Clone the Repo or Download the Zip file
-2. Open index.html with your browser.
+1. Clone the Repo or Download the Zip file and Extract by clicking here [GitHub Repo]{}
+2. mkdir the folder of your choice
+3. cd the folder of your choice
+4. git clone
 
 ## Author
 

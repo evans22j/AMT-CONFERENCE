@@ -1,9 +1,9 @@
 const data = [
   {
     id: 1,
-    name: "Evans Sitibekiso",
+    name: "Sofia lerner",
     images: {
-      img: "../images/icons/evans.jpeg",
+      img: "../images/staff4.png",
       alt: "team_1",
     },
     about: "Ceo jevacrism Group of Companies.",
@@ -13,7 +13,7 @@ const data = [
     id: 2,
     name: "Evans Sitibekiso",
     images: {
-      img: "../images/icons/evans.jpeg",
+      img: "../images/staff3.png",
       alt: "team_2",
     },
     about: "Ceo Dana Oil.",
