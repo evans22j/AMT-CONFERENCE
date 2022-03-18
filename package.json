@@ -1,0 +1,33 @@
+{
+  "name": "AMT-CONFERENCE",
+  "version": "1.0.0",
+  "description": "Africa must think conference is aimed at redefining the future of Africa by transforming the education system from the theoretical approach to that which appreciates practical Entrepreneurship skills. Here is the link video [Loom Video](https://www.loom.com/share/08ebad94e4774b8491249d70951e9488) explaining how it works. For the live conference [Click here](https://evans22j.github.io/AMT-CONFERENCE/) to see the version of the conference page.",
+  "main": "index.js",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.4",
+    "hint": "^6.1.10"
+  },
+  "devDependencies": {
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evans22j/AMT-CONFERENCE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evans22j/AMT-CONFERENCE/issues"
+  },
+  "homepage": "https://github.com/evans22j/AMT-CONFERENCE#readme"
+}
