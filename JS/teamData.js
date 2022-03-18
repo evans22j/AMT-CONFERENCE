@@ -3,7 +3,7 @@ const data = [
     id: 1,
     name: "Sofia lerner",
     images: {
-      img: "../images/staff4.png",
+      img: "../images/member4.png",
       alt: "team_1",
     },
     about: "Ceo jevacrism Group of Companies.",
@@ -13,7 +13,7 @@ const data = [
     id: 2,
     name: "Evans Sitibekiso",
     images: {
-      img: "../images/staff3.png",
+      img: "../images/member3.png",
       alt: "team_2",
     },
     about: "Ceo Dana Oil.",
@@ -23,7 +23,7 @@ const data = [
     id: 3,
     name: "Sofia lerner",
     images: {
-      img: "../images/staff3.png",
+      img: "../images/member3.png",
       alt: "team_3",
     },
     about: "Global Entrepreneur.",
@@ -33,7 +33,7 @@ const data = [
     id: 4,
     name: "Patricia jackson",
     images: {
-      img: "../images/staff4.png",
+      img: "../images/member4.png",
       alt: "team_4",
     },
     about: "Global Speaker.",
@@ -43,7 +43,7 @@ const data = [
     id: 5,
     name: "Marry Korey",
     images: {
-      img: "../images/staff5.png",
+      img: "../images/member5.png",
       alt: "team_3",
     },
     about: "Ceo Chena Oil Campany.",
@@ -53,7 +53,7 @@ const data = [
     id: 6,
     name: "Eric yen",
     images: {
-      img: "../images/staff6.png",
+      img: "../images/member3.png",
       alt: "team_6",
     },
     about: "Global Speaker.",

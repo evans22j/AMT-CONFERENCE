@@ -1,8 +1,8 @@
-# AFRICA MUST THINK CONFERENCE
+# AMT-CONFERENCE
 
-Africa must think conference is aimed at redefining the future of Africa by transforming the education system from the theoretical approach to that which appreciates practical Entrepreneurship skills. Here is the link video [Loom Video](https://www.loom.com/share/08ebad94e4774b8491249d70951e9488) explaining how it works. For the live conference [Click here]() to see the version of the conference page.
+Africa must think conference is aimed at redefining the future of Africa by transforming the education system from the theoretical approach to that which appreciates practical Entrepreneurship skills. Here is the link video [Loom Video](https://www.loom.com/share/08ebad94e4774b8491249d70951e9488) explaining how it works. For the live conference [Click here](https://evans22j.github.io/AMT-CONFERENCE/) to see the version of the conference page.
 
-Below are the screenshorts for:
+Below are the screenshorts links for:
 
 Desktop Version.
 
@@ -32,10 +32,10 @@ In this project i added the following;
 
 To get a local copy up and running follow these simple example steps.
 
-1. Clone the Repo or Download the Zip file and Extract by clicking here [GitHub Repo]{}
+1. Clone the Repo or Download the Zip file and Extract by clicking here [GitHub Repo]{https://github.com/evans22j/AMT-CONFERENCE.git}
 2. mkdir the folder of your choice
 3. cd the folder 
-4. git clone 
+4. git clone https://github.com/evans22j/AMT-CONFERENCE.git
 
 ## Author
 
